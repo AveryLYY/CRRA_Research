@@ -4,3 +4,4 @@ data/processed/crra_results.csv
 *.dta
 *.sav
 *.xlsx
+.DS_Store
