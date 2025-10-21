@@ -1,0 +1,6 @@
+# Ignore confidential data
+data/raw/
+data/processed/crra_results.csv
+*.dta
+*.sav
+*.xlsx
