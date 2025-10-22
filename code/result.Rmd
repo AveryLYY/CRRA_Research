@@ -29,7 +29,6 @@ library(haven)
 ## Upload the data
 
 ```{r}
-setwd("~/Desktop/Stata/CRRA")
 df <- read_dta("new_data.dta")
 ```
 
@@ -92,4 +91,3 @@ results <- df %>%
 ```{r}
 print(results)
 ```
-
